@@ -61,6 +61,8 @@ p  { font-style: oblique;
 
 
   .m { 
+      align-items: center;
+      justify-items: center;
      color:rgb(0, 0, 0);
     font-style: oblique;
      padding: 15px;
@@ -94,11 +96,15 @@ button {
 
 ul li a
 { color: black;
+    
 border-bottom: solid ivory;
 border-width: 3px solid;
 display:inline-block;
 margin: 1%;
 
-
-
 }
+
+
+
+
+
